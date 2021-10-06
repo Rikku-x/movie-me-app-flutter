@@ -4,7 +4,7 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
   name: movie-me-app-flutter
-  description: Movie me app in Flutter
+  description: Movie me app written Flutter
   tags:
     - dart
     - flutter
