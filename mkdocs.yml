@@ -1,0 +1,7 @@
+site_name: 'movie-me-app-flutter'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
