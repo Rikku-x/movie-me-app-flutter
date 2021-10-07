@@ -2,6 +2,7 @@ site_name: 'movie-me-app-flutter'
 
 nav:
   - Home: index.md
+  - Playbook: playbook.md
 
 plugins:
   - techdocs-core
